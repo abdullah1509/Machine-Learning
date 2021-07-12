@@ -1,0 +1,17 @@
+company,job,degree,sallery_more_than_100k
+google,sales executive,bachelor,0
+google,sales executive,masters,0
+google,sales executive,bachelor,1
+google,sales executive,masters,1
+google,computer programmer,bachelor,0
+google,computer programmer,masters,1
+abc pharma,sales executive,masters,0
+abc pharma,computer programmer,bachelor,0
+abc pharma,bussiness manager,bachelor,0
+abc pharma,bussiness manager,masters,1
+facebook,sales executive,bachelor,1
+facebook,sales executive,masters,1
+facebook,bussiness manager,bachelor,1
+facebook,bussiness manager,masters,1
+facebook,computer programmer,bachelor,1
+facebook,computer programmer,masters,1
