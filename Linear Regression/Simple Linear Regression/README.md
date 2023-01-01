@@ -1,4 +1,4 @@
-# This file contain Screenshot of deployment of Simple Linear Regression
+# This folder contains *.PY* file and *.ipnb* file along with Screenshot of deployment of Simple Linear Regression
 
 
 ![Capture1](https://user-images.githubusercontent.com/58501537/210173678-7dbc61ad-c74d-4be7-adeb-968f06803490.PNG)
