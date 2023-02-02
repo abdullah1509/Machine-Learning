@@ -1,8 +1,10 @@
 # This folder contains *.PY* file and *.IPYNB* file along with Screenshot of deployment of Simple Linear Regression
 
-
+###### Screenshot 1
 ![Capture1](https://user-images.githubusercontent.com/58501537/210173678-7dbc61ad-c74d-4be7-adeb-968f06803490.PNG)
 
-![Capture2](https://user-images.githubusercontent.com/58501537/210173683-030f43d3-e3f6-4073-84bd-efc4c508b3ea.PNG)
+###### Screenshot 2
+![Capture1](https://user-images.githubusercontent.com/58501537/216288798-a2b7634f-8a12-40e8-86d0-8051e339012d.PNG)
 
-![Capture3](https://user-images.githubusercontent.com/58501537/210173690-819c4ef1-3a29-4f0f-a36f-4ae2d03339ef.PNG)
+###### Screenshot 3
+![Capture2](https://user-images.githubusercontent.com/58501537/216288913-e2cfe501-a929-431e-a900-699166ff1073.PNG)
